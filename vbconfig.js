@@ -5,7 +5,7 @@
  * Thus if VocBench3 and Semantic Turkey are running on the same machine this variable can be left commented,
  * otherwise uncomment the line and edit the value.
  */
-//var st_host = "10.154.178.67";
+var st_host = "5.189.176.106";
 
 /**
  * Port of the container hosting Semantic Turkey.
@@ -14,7 +14,7 @@
  * Thus if VocBench3 and Semantic Turkey are running on the same container this variable can be left commented,
  * otherwise uncomment the line and edit the value.
  */
-var st_port = "1979";
+// var st_port = "1979";
 
 /**   
  * Path where SemanticTurkey server is listening. If omitted, the sole host is considered.
@@ -23,7 +23,7 @@ var st_port = "1979";
  *  This additional path information is considered to be the starting part of the path described above, 
  *  and is usually necessary in case Semantic Turkey is installed behind a proxy redirecting the ST URL.
  */ 
-var st_path;
+var st_path="semanticturkey";
 
 /**
  * Protocol - either http or https.
