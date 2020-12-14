@@ -14,7 +14,7 @@ var st_host = "st.sceiba.cu";
  * Thus if VocBench3 and Semantic Turkey are running on the same container this variable can be left commented,
  * otherwise uncomment the line and edit the value.
  */
-// var st_port = "1979";
+//var st_port = "8443";
 
 /**   
  * Path where SemanticTurkey server is listening. If omitted, the sole host is considered.
@@ -23,11 +23,15 @@ var st_host = "st.sceiba.cu";
  *  This additional path information is considered to be the starting part of the path described above, 
  *  and is usually necessary in case Semantic Turkey is installed behind a proxy redirecting the ST URL.
  */ 
-// var st_path="semanticturkey";
+//var st_path;
 
 /**
  * Protocol - either http or https.
  * By default (variable left unspecified) the protocol is resolved dynamically by using the same one of the
  * container hosting VocBench.
  */
-// var st_protocol = "http";
+//var st_protocol = "http";
+
+st_guest_user='guest@sceiba.cu'
+st_guest_pass='password'
+  
