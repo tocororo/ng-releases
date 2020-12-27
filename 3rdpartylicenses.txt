@@ -157,6 +157,8 @@ THE SOFTWARE.
 
 @angular/material/form-field
 
+@angular/material/grid-list
+
 @angular/material/icon
 
 @angular/material/list
@@ -184,6 +186,8 @@ THE SOFTWARE.
 @angular/material/stepper
 
 @angular/material/table
+
+@angular/material/tabs
 
 @angular/material/toolbar
 
