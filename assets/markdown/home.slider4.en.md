@@ -1,1 +1,0 @@
-The use of persistent identifiers for organizations and authors are pillars in the evaluation and for the control and monitoring of the quality of research results.

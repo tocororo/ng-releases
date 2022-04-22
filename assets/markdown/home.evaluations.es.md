@@ -1,1 +1,0 @@
-Implementación de metodologías propias de evaluación a nivel institucional y otras escalas, desde la conexión entre los resultados y las fuentes, las organizaciones y personas involucradas en las diferentes líneas de investigación.

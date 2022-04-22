@@ -1,1 +1,0 @@
-Sistema de identificación de personas relacionadas con la Investigación en Cuba.
