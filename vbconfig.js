@@ -5,7 +5,7 @@
  * Thus if VocBench3 and Semantic Turkey are running on the same machine this variable can be left commented,
  * otherwise uncomment the line and edit the value.
  */
-var st_host = "semanticturkey.sceiba.cu";
+// var st_host = "semanticturkey.sceiba.cu";
 
 /**
  * Port of the container hosting Semantic Turkey.
