@@ -1,1 +1,0 @@
-Tools based on different methodologies to evaluate scientific publications and organizations dedicated to research.

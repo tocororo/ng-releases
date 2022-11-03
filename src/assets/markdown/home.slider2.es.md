@@ -1,1 +1,0 @@
-Sceiba en el registro, gestión, accesibilidad y evaluación de las publicaciones científicas cubanas.
