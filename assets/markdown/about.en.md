@@ -1,25 +1,25 @@
 ## About
 
-The National Registry is the official national list of journals managed by institutions attached to the Ministry of Education of Cuba. It is maintained by the Directorates of Science and Computerization of the MES and was developed within the framework of the project [VLIR JOINT 2019-01-27 (SCEIBA)](https://www.vliruos.be/en/projects/project/22?pid=4202) and the national branch project [TOCORORO](https://tocororo.upr.edu.cu).
+El Registro Nacional es la lista nacional oficial de revistas gestionadas por instituciones adscritas al Ministerio de educación de Cuba. Es mantenido por las Direcciones de Ciencia e Informatización del MES y fue desarrollado en el marco del proyecto [VLIR JOINT  2019-01-27 (SCEIBA)](https://www.vliruos.be/en/projects/project/22?pid=4202) y el proyecto nacional ramal [TOCORORO](https://tocororo.upr.edu.cu).
 
-This platform is free to access and its contents are distributed under the Creative Commons CC by 4.0 License. Its objective is aimed at increasing the visibility of scientific journals in the Cuban higher education system, as well as the implementation of services that allow monitoring and evaluation of their quality.
+Esta plataforma es de acceso gratuito y se distribuyen sus contenidos bajo la Licencia Creative Commons CC by 4.0. Su objetivo está orientado a aumentar la visibilidad de las revistas científicas del sistema de educación superior cubano, así como la implementación de servicios que permitan el monitoreo y evaluación de su calidad.
 
-Through the registry, there is knowledge of the scientific journals, -be they academic or student-, and scientific dissemination magazines of the institutions attached to the Ministry of Higher Education, and thus initiate the collection of their metadata. The metadata will be incorporated into the federated directory of Cuban scientific journals. The metadata associated with personal information, as well as the personal information provided by the user will only be used for the purposes described in the [privacy policy of this platform](https://sceiba-lab.upr.edu.cu/page/politicas).
+A través del registro, se tiene conocimiento de las revistas científicas, - sean académicas o estudiantiles-, y revistas de divulgación científica de las instituciones adscritas Ministerio de Educación Superior, y de esta manera iniciar la colecta de sus metadatos. Los metadatos serán incorporados al directorio federado de revistas científicas cubanas. Los metadatos asociados a la información personal, así como la información personal provista por el usuario sólo será  usada para los fines descritos en la [política de privacidad de esta plataforma](https://sceiba-lab.upr.edu.cu/page/politicas).
 
-The content of the registry is dynamic and constantly growing as it is open to the integration and participation of new scientific serials published by institutions of the Ministry of Higher Education.
+El contenido del registro es dinámico y está en constante crecimiento pues está abierto a la integración y participación de nuevas publicaciones seriadas científicas de editadas por instituciones del Ministerio de Educación Superior.
 
-The system is developed in open source accessible from [Github](https://github.com/tocororo) and is developed by a work team from the following universities associated with the Tocororo and SCEIBA projects:
+El sistema se desarrolla en código abierto accesible desde [Github](https://github.com/tocororo) y es desarrollado por un equipo de trabajo proveniente de las siguientes universidades asociadas a los proyectos Tocororo y SCEIBA:
 
-* University of Pinar del Río (Cuba)
-* University of Havana (Cuba)
-* National University of La Molina (Peru)
-* San Ignacio Loyola University (Peru)
-* University of Hasselt (Belgium)
-* University of Amberes (Belgium)
+* Universidad de Pinar del Río (Cuba)
+* Universidad de La Habana (Cuba)
+* Universidad Nacional de La Molina (Perú)
+* Universidad San Ignacio Loyola (Perú)
+* Universidad de Hasselt (Bélgica)
+* Universidad de Amberes (Bélgica)
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center">
-    <img src="/assets/images/upr.png" width="93" style="margin:1em">
-    <img src="/assets/images/uh.png" width="93" style="margin:1em">
+    <img src="/assets/images/upr.png" width="93" height="108" style="margin:1em">
+    <img src="/assets/images/uh.png" width="93" height="108" style="margin:1em">
     <img src="/assets/images/lamolina.jpg" width="93" height="108" style="margin:1em">
     <img src="/assets/images/usil.png" width="93" height="108" style="margin:1em">
     <img src="/assets/images/hasselt.png" width="140" height="108" style="margin:1em">

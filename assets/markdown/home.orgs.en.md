@@ -1,1 +1,0 @@
-Manages official and public list of Cuban organizations that have REUP code. It offers the possibility of identifying them by the internationally used and standardized identifiers from the Cuban network, in this case the code of GRID, ROR, Wikidata and ISNI.

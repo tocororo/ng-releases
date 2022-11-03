@@ -1,3 +1,1 @@
-## Ayuda
-
-Poner el texto aquí...
+## Help

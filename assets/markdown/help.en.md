@@ -1,3 +1,1 @@
 ## Help
-
-Put the text here...
