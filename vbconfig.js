@@ -14,7 +14,7 @@ var st_host = "vocabularios.sceiba.org";
  * Thus if VocBench3 and Semantic Turkey are running on the same container this variable can be left commented,
  * otherwise uncomment the line and edit the value.
  */
-var st_port = "443";
+// var st_port = "443";
 
 /**   
  * Path where SemanticTurkey server is listening. If omitted, the sole host is considered.
