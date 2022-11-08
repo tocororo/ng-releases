@@ -173,6 +173,8 @@ THE SOFTWARE.
 
 @angular/material/select
 
+@angular/material/sidenav
+
 @angular/material/snack-bar
 
 @angular/material/sort
@@ -193,6 +195,12 @@ THE SOFTWARE.
 MIT
 
 @angular/router
+MIT
+
+@ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
 MIT
 
 @swimlane/ngx-charts
@@ -1252,6 +1260,7 @@ Apache-2.0
 sceiba-ng
 
 toco-lib
+MIT
 
 tslib
 0BSD
