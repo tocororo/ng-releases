@@ -161,6 +161,8 @@ THE SOFTWARE.
 
 @angular/material/icon
 
+@angular/material/list
+
 @angular/material/menu
 
 @angular/material/paginator
@@ -172,6 +174,8 @@ THE SOFTWARE.
 @angular/material/radio
 
 @angular/material/select
+
+@angular/material/sidenav
 
 @angular/material/snack-bar
 

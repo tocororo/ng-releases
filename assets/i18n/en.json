@@ -1,4 +1,5 @@
 {
+    "HOME": "Home",
     "CONJUNCION_Y": "and",
     "BETA": "BETA",
     "BETA_TOOLTIP": "This is a BETA product configured for testing purposes. Some features can not work properly.",
@@ -21,7 +22,8 @@
     "ADMINISTRACION": "Settings",
     "SALIR": "Exit",
     "YO": "Me",
-    "AUT_REV_CIENT_CUBANAS": "Evaluation of University Scientific Journals",
+    "AUT_REV_CIENT_CUBANAS": "Sceiba Evaluaciones",
+    "AUT_REV_CIENT_CUBANAS_SUB": "A tool for science evaluation and monitoring",
     "EMPEZAR": "Get Started",
     "PROD_SERV": "Products and Services",
     "SCEIBA": "Sceiba",
@@ -97,6 +99,7 @@
     "OTRAS_HERRAMIENTAS": "Other Tools",
     "LECTURAS_RECOMENDADAS": "Recommended Reading",
     "MIS_EVALUACIONES": "My Evaluation",
+    "LISTA_EVALUACIONES": "List of Evaluations",
 
     "TITULO_VISTA_DETALLES": "Details of the Evaluation",
     "TITULO_VISTA_ADICIONAR": "Evaluate Your Journal",
@@ -134,8 +137,8 @@
     "TOCO_NG_E_ISSN": "Electronic ISSN",
     "TOCO_NG_ISSN_L": "Linking ISSN",
 
-    "TOCO_NG_ERROR_MSG_ISSN_LONG_INVAL": "The length must be 11.",
-    "TOCO_NG_ERROR_MSG_ISSN_LONG_Y_DIG_INVAL": "The length must be 11, and all positions have digits (the last one can also have x or X).",
+    "TOCO_NG_ERROR_MSG_ISSN_LONG_INVAL": "Invalid ISSN.",
+    "TOCO_NG_ERROR_MSG_ISSN_LONG_Y_DIG_INVAL": "The length is invalid, and all positions have digits (the last one can also have x or X).",
     "TOCO_NG_ERROR_MSG_ISSN_DIG_INVAL": "All positions must have digits (the last one can also have x or X).",
     "TOCO_NG_ERROR_MSG_ISSN_DIG_CHEQUEO_INVAL": "There is some wrong digit.",
 
@@ -154,5 +157,8 @@
     "FOOTER_TEXT_INFORMACION": "General Information",
     "FOOTER_TEXT_DEVELOP": "develop by",
     "FOOTER_TEXT_AND": "and",
-    "SCEIBA_EVALUACIONES": "Sceiba Evaluations"
+    "SCEIBA_EVALUACIONES": "Sceiba Evaluations",
+    "VIEW": "View",
+    "CLONE": "Clone",
+    "EDIT": "Edit"
 }
